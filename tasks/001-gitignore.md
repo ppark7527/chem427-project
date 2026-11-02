@@ -1,8 +1,8 @@
 # 001: Write `.gitignore`
 
 - **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Created:** 2026-11-01
+- **Updated:** 2026-11-01
 - **Due:** 2026-11-01, before task 002
 
 ## Goal
@@ -65,5 +65,6 @@ If your data cannot be stored on GitHub, because they are too large or their lic
 `.gitignore` is pushed, and after `uv sync` in task 002, `git status` does not list `.venv/`. Close this task then.
 
 ## Progress log
-
+Git status does not list .venv/
 ## Outcome
+Done.
