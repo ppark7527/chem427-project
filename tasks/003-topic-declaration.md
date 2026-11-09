@@ -2,7 +2,7 @@
 
 - **Status:** active
 - **Created:** 2026/11/01
-- **Updated:** 2026/11/03
+- **Updated:** 2026/11/08
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
