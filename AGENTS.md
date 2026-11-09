@@ -28,6 +28,7 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: Does changing the gradient length change the sensitivity by more than the noise, and is the noise from the instrument or from the solutions?
+- Data: `data/knoevenagel.tar.bz2`, committed as downloaded, an archive with one `DAD1.CSV` per HPLC run (calibration standards and blanks for 3 aldehydes, 5 gradient lengths, 2 replicate series). The CSVs are UTF-16 and are read from inside the archive with `tarfile`. In each CSV, one row is one time point: the unnamed first column is time in min (renamed `time_min`, 0.1 s steps), followed by absorbance at 351 wavelengths, columns `200` to `550` nm. Source: MOCCA example data, https://github.com/Bayer-Group/MOCCA/blob/example-data/knoevenagel.tar.bz2, accessed 2026-11-08 (Haas et al., ACS Cent. Sci. 9, 307 (2023)).
+
+- Measured variable: columns (time_min, then wavelengths 200 to 550 nm (351 columns)), absorbance (mAU)
