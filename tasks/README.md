@@ -26,10 +26,14 @@ Newest first. Change the link to `archive/NNN-slug.md` when a task moves.
 
 | Number | Task | Status | Due |
 |---|---|---|---|
-| 003 | [Topic declaration](archive/003-topic-declaration.md) | closed | 2026-11-08 |
-| 002 | [Copy the course environment](archive/002-environment.md) | closed | 2026-11-01 |
-| 001 | [Write `.gitignore`](archive/001-gitignore.md) | closed | 2026-11-01 |
-| 004 | [First Calibration Analysis/Results](004-first-calibration.md) | active | 2026-11-22 |
+| 007 | [Calibrating Every Gradient and Analyte](007-calibrate-all.md) | active | 2026-12-01 |
+| 006 | [Series 1 Level 075 Outlier: Solution or Injection?](006-outlier-check.md) | active | 2026-12-01 |
 | 005 | [Project Working Draft](005-project-working-draft.md) | active | 2026-11-22 |
-| 006 | [Series 1 Level 075 Outlier: Solution or Injection?](006-outlier-check.md) | active | 2026-12-09 |
-| 007 | [Calibrating Every Gradient and Analyte](005-calibrate-all.md) | active | 2026-12-09 |
+| 004 | [First Calibration Analysis/Results](004-first-calibration.md) | active | 2026-11-22 |
+| 003 | [Topic declaration](archive/003-topic-declaration.md) | done | 2026-11-08 |
+| 002 | [Copy the course environment](archive/002-environment.md) | done | 2026-11-01 |
+| 001 | [Write `.gitignore`](archive/001-gitignore.md) | done | 2026-11-01 |
+
+
+
+

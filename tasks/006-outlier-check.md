@@ -3,7 +3,7 @@
 - **Status:** active
 - **Created:** 2026-11-22
 - **Updated:** 2026-11-23
-- **Due:** 2026-12-09 11:59pm
+- **Due:** 2026-12-01 11:59pm
 
 ## Goal
 Compute the area per mM of series 1 level 075 on all five gradients and compare it with series 2 and with the other levels.

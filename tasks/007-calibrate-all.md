@@ -3,7 +3,7 @@
 - **Status:** active
 - **Created:** 2026-11-22
 - **Updated:** 2026-11-23
-- **Due:** 2026-12-09 11:59pm
+- **Due:** 2026-12-01 11:59pm
 
 ## Goal
 Peak areas and calibration slopes for 3 analytes × 5 gradients.
