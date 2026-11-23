@@ -1,6 +1,6 @@
 # 002: Copy the course environment
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-01
 - **Updated:** 2026-11-01
 - **Due:** 2026-11-01, after task 001
@@ -77,6 +77,7 @@ If the course announces a change to its package list, copy the three files again
 The cell in step 4 prints Python 3.14 and the same package versions as a session notebook, and the three files are pushed.
 
 ## Progress log
+2026-11-01
 Python     3.14.10
 NumPy      2.5.3
 pandas     3.0.6

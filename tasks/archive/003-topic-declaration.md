@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
-- **Status:** active
-- **Created:** 2026/11/01
-- **Updated:** 2026/11/08
+- **Status:** done
+- **Created:** 2026-11-01
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -57,5 +57,5 @@ git rev-parse HEAD
 The Canvas entry is in. Close this task after it is, with the URL you submitted in **Outcome**, and commit and push the closed task. Your mentor reads the repository at the commit you submitted, so later commits do not change what is scored.
 
 ## Progress log
-
+2026-11-01 done
 ## Outcome
