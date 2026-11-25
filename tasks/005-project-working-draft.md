@@ -2,7 +2,7 @@
 
 - **Status:** active
 - **Created:** 2026-11-22
-- **Updated:** 2026-11-23
+- **Updated:** 2026-11-24
 - **Due:** 2026-11-22 11:59pm
 
 ## Goal
@@ -30,7 +30,8 @@ git push
 The Canvas entry is in, all changes added to repostory.
 
 ## Progress log
-2026-11-23 committed and pushed to repository as "working draft"
+2026-11-23 other edits committed and pushed as "pre-draft"
+2026-11-24 committed and pushed to repository as "working draft"
 
 ## Outcome
 New edits and additions now visible in public repository for chem427-project.

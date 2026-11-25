@@ -6,7 +6,7 @@
 - **Due:** 2026-12-01 11:59pm
 
 ## Goal
-Compute the area per mM of series 1 level 075 on all five gradients and compare it with series 2 and with the other levels.
+Compute the area per mM of series 1 level 075 on all five gradients and compare it with series 2 and with the other levels (075).
 
 ## Steps
 1. Find out from Haas et al. (2023) or the MOCCA documentation whether series 1 and 2 injected the same vials or separately prepared solutions, and record which.
