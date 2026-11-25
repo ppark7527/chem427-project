@@ -1,6 +1,6 @@
 # 005: Project Working Draft
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-22
 - **Updated:** 2026-11-24
 - **Due:** 2026-11-22 11:59pm

@@ -32,3 +32,4 @@ The student replaces the three lines below and adds a line each time they correc
 - Data: `data/knoevenagel.tar.bz2`, committed as downloaded, an archive with one `DAD1.CSV` per HPLC run (calibration standards and blanks for 3 aldehydes, 5 gradient lengths, 2 replicate series). The CSVs are UTF-16 and are read from inside the archive with `tarfile`. In each CSV, one row is one time point: the unnamed first column is time in min (renamed `time_min`, 0.1 s steps), followed by absorbance at 351 wavelengths, columns `200` to `550` nm. Source: MOCCA example data, https://github.com/Bayer-Group/MOCCA/blob/example-data/knoevenagel.tar.bz2, accessed 2026-11-08 (Haas et al., ACS Cent. Sci. 9, 307 (2023)).
 
 - Measured variable: columns (time_min, then wavelengths 200 to 550 nm (351 columns)), absorbance (mAU)
+- Concentrations come from MOCCA code (ex: 075).
